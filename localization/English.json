@@ -1,0 +1,16 @@
+{
+  "o_inv_scroll_blessed": "Blessed Scroll",
+  "o_inv_scroll_blessed_d": "Blesses identified equipment with five extraordinary enchantments.",
+  
+  "o_inv_scroll_epic_enchantment": "Epic Enchantment Scroll",
+  "o_inv_scroll_epic_enchantment_d": "Imbues identified equipment with three powerful enchantments.",
+  
+  "o_inv_scroll_legendary_enchantment": "Legendary Enchantment Scroll",
+  "o_inv_scroll_legendary_enchantment_d": "Imbues identified equipment with four exceptional enchantments.",
+  
+  "o_inv_scroll_rare_enchantment": "Rare Enchantment Scroll",
+  "o_inv_scroll_rare_enchantment_d": "Imbues identified equipment with two rare enchantments.",
+  
+  "o_inv_scroll_cursed_hexing": "Cursed Scroll of Hexing",
+  "o_inv_scroll_cursed_hexing_d": "Binds a random dark curse to identified equipment."
+}
